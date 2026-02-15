@@ -1,0 +1,6 @@
+name: BloodBendingRanking
+version: '1.0'
+main: me.wither.bloodBendingRanking.BloodBendingRanking
+api-version: '1.20'
+author: [ Sc1_original ]
+depend: [ProjectKorra]
