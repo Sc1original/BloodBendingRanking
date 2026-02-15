@@ -17,6 +17,9 @@ you can change their permission by plugins like Luckperms,
 
 so for example if u want to make an op player's bloodbendingrank Expert, first make sure to set bloodbendingrank.amon, bloodbendingrank.tarlok and bloodbendingrank.master to false for them, cause default for ops is true
 
+![download1](https://github.com/user-attachments/assets/4284558e-ec32-4957-9987-f177b703943c)
 
-![Uploading download1.jpg…]()
+
+
+
 
